@@ -250,7 +250,7 @@ If you like this project, feel free to give it a ⭐ on GitHub.
 
 ---
 
-# 📄 License
+# License
 
 This project is created for educational and portfolio purposes only.
 
