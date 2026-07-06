@@ -224,7 +224,7 @@ Through this project, the following skills were strengthened:
 Add your deployed project link here
 
 ```
-https://your-live-demo-link.vercel.app
+https://youtu.be/bggqxIVvG9k
 ```
 
 ---
