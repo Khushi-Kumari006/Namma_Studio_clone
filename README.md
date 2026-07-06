@@ -221,11 +221,7 @@ Through this project, the following skills were strengthened:
 
 #  Live Demo
 
-Add your deployed project link here
-
-```
 https://youtu.be/bggqxIVvG9k
-```
 
 ---
 
